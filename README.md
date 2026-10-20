@@ -31,7 +31,7 @@ brew install --cask libreoffice
 Clone the repository and run `install.sh`:
 
 ```bash
-git clone https://github.com/sadeghiartin/macos-convert-to-pdf.git
+git clone https://github.com/newbeishere101/macos-convert-to-pdf.git
 cd macos-convert-to-pdf
 chmod +x install.sh
 ./install.sh
